@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alex-benson. I recently completed a Web Development Bootcamp course and am exploring new career opportunities within emerging technologies.
-- 👀 I’m interested in working on projects using new and exciting technologies. 
+- 👀 I’m interested in working on projects with new and exciting technologies. 
 - 💻 I'm building a personal website/blog using Notion and Super (visit https://alexbenson.super.site)
 - 🌱 I’m currently learning about Web3, NFTs, and Crypto.
 - ⚾️ I play baseball and love collecting sports cards.
-- 📫 Email me if you want alexbenson25@gmail.com
+- 📫 Email me if you'd like to connect! alexbenson25@gmail.com
